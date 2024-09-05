@@ -1,7 +1,10 @@
 ---
-name: Feature request 💄
+name: "Feature request \U0001F484"
 about: Suggest a new idea for AdminKit.
+title: ''
 labels: enhancement
+assignees: ''
+
 ---
 
 <!-- Provide a general summary of the feature in the Title above -->

@@ -1,7 +1,10 @@
 ---
-name: Bug report 🐛
+name: "Bug report \U0001F41B"
 about: Create a bug report for AdminKit
+title: ''
 labels: bug
+assignees: ''
+
 ---
 
 <!-- Provide a general summary of the issue in the Title above -->
